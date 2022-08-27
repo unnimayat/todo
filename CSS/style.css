@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(171, 223, 249);
+}
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button1 {
+    background-color: #111416;
+    margin-top: 500px;
+    margin-left: 500px;
+    width: 140px;
+    height: 70px;
+    position: absolute;
+    border-radius: 7%;
+} 
+.button2 {
+    background-color: #111416;
+    margin-top: 500px;
+    margin-left: 100px;
+    width: 140px;
+    height: 70px;
+    position: absolute;
+    border-radius: 7%;
+} 
+textarea{
+    background-color:rgb(151, 205, 224) ;
+}
+ 
